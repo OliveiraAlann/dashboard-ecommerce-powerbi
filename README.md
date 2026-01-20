@@ -40,10 +40,10 @@ relacionados a e-commerce, vendas e clientes.
 ## 📷 Visualizações do Dashboard
 
 ### E-commerce
-![E-commerce](img/ecommerce.png)
+![E-commerce](dashboard-ecommerce/img/ecommerce.png)
 
 ### Vendas
-![Vendas](img/vendas.png)
+![Vendas](dashboard-ecommerce/img/vendas.png)
 
 ### Clientes
-![Clientes](img/clientes.png)
+![Clientes](dashboard-ecommerce/img/clientes.png)
